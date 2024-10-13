@@ -1,0 +1,37 @@
+{
+    "users": [
+        {
+            "name": "Krishna",
+            "transactions": [
+                {
+                    "amount": 55170.0,
+                    "category": "Entertainment",
+                    "date": 1728824126,
+                    "description": "Iphone 15",
+                    "isIncome": false
+                },
+                {
+                    "amount": 105.0,
+                    "category": "Food",
+                    "date": 1728824356,
+                    "description": "Biryani",
+                    "isIncome": false
+                },
+                {
+                    "amount": 1000.0,
+                    "category": "Entertainment",
+                    "date": 1728824750,
+                    "description": "Acoland",
+                    "isIncome": false
+                },
+                {
+                    "amount": 5000.0,
+                    "category": "Travel",
+                    "date": 1728824882,
+                    "description": "Duzkov",
+                    "isIncome": false
+                }
+            ]
+        }
+    ]
+}
